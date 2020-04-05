@@ -1,2 +1,2 @@
-# GueardiansOfTheGalaxy
+# GuardiansOfTheGalaxy
 Game Jam 2
